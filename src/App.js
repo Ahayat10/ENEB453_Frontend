@@ -1,15 +1,15 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import LoginForm from './Final2/LoginForm';
-import Dashboard from './Final2/DashBoard';
-import AddDevice from './Final2/AddDevice';
-import DeleteDevice from './Final2/DeleteDevice';
-import Settings from './Final2/Settings';
-import About from './Final2/About';
-import Layout from './Final2/Layout'; 
-import SetName from './Final2/SetName'; 
-import SetEmail from './Final2/SetEmail';
-import ChangePassword from './Final2/ChangePassword';
+import LoginForm from './components/LoginForm';
+import Dashboard from './components/DashBoard';
+import AddDevice from './components/AddDevice';
+import DeleteDevice from './components/DeleteDevice';
+import Settings from './components/Settings';
+import About from './components/About';
+import Layout from './components/Layout'; 
+import SetName from './components/SetName'; 
+import SetEmail from './components/SetEmail';
+import ChangePassword from './components/ChangePassword';
 
 function App() {
   return (
