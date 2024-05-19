@@ -1,0 +1,12 @@
+  .widget {
+    display: flex;
+    justify-content: center;
+    font-size: 0.8rem;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 30px;
+  }
+  
+  .col-centered {
+    align-content: center;
+  }
