@@ -39,15 +39,7 @@ const Sidebar = () => {
             </NavLink>
           </CDBSidebarMenu>
         </CDBSidebarContent>
-
-        <CDBSidebarFooter style={{ textAlign: 'center' }}>
-          <div
-            style={{
-              padding: '20px 5px',
-            }}
-          >
-          </div>
-        </CDBSidebarFooter>
+        
       </CDBSidebar>
     </div>
   );
